@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdcspark_blog=self.webpackChunkdcspark_blog||[]).push([[462],{4317:a=>{a.exports=JSON.parse('{"label":"catalyst","permalink":"/tags/catalyst","allTagsPath":"/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdcspark_blog=self.webpackChunkdcspark_blog||[]).push([[594],{94:a=>{a.exports=JSON.parse('{"label":"shinkai","permalink":"/ja/tags/shinkai","allTagsPath":"/ja/tags","count":1}')}}]);
