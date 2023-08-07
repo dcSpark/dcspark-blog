@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdcspark_blog=self.webpackChunkdcspark_blog||[]).push([[393],{3276:a=>{a.exports=JSON.parse('{"label":"paima","permalink":"/tags/paima","allTagsPath":"/tags","count":1}')}}]);

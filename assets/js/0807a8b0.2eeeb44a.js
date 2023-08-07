@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdcspark_blog=self.webpackChunkdcspark_blog||[]).push([[311],{2644:a=>{a.exports=JSON.parse('{"label":"milkomeda","permalink":"/tags/milkomeda","allTagsPath":"/tags","count":1}')}}]);
