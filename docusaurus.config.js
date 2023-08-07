@@ -9,7 +9,7 @@ const config = {
   title: "dcSpark Blog",
   tagline: "An ecosystem builder company",
   favicon: "img/favicon.ico",
-  url: "https://blog.dcspark.io",
+  url: "http://blog.dcspark.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
