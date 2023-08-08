@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-#  pull_request:
 
 jobs:
   deploy:
@@ -24,10 +23,9 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        #if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          cname: http://blog.dcspark.io
+          cname: blog.dcspark.io
