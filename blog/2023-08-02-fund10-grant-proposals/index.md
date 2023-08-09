@@ -497,7 +497,7 @@ Treasure Chain is a different kind of game that combines these three things.
 </details>
 
 Ideascale: [link](https://cardano.ideascale.com/c/idea/101804)<br />
-Lidonation: [link](https://www.lidonation.com/ja/proposals/djed-osiris-stablecoin-on-cardanos-evm-sidechain-milkomeda-f10)
+Lidonation: [link](https://www.lidonation.com/ja/proposals/treasure-chain-f10)
 
 ### Open source Marketplace “Opensea-like” for MIlkomeda usecases and Seedstars Galaxy
 Cost: ~87K USD
