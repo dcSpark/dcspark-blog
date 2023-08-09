@@ -13,7 +13,7 @@ dcSparkは、Catalyst提案の完遂能力が最も高い企業の一つです�
 Catalystのすべての完了した提案のうち約5～10% はdcSparkの提案だからです。
 
 （単にアプリを作る、というだけではなく）エコシステム（経済圏）を構築するというミッションを果たすために、コアなインフラ、サイドチェーン、オープンソーススマートコントラクト、ユーザー向け製品など、多岐にわたる開発をしてきました。
-今回のFUND10では、<b>[自律的な世界（Autonomous World - AW)]((https://www.youtube.com/watch?v=qlaXTJObDJk))</b>、オンチェーンゲーム、ゲーミフィケーションに全力を注ぐ所存です。
+今回のFUND10では、<b>[自律的な世界（Autonomous World - AW)](https://www.youtube.com/watch?v=qlaXTJObDJk)</b>、オンチェーンゲーム、ゲーミフィケーションに全力を注ぐ所存です。
 
 <!-- truncate -->
 
