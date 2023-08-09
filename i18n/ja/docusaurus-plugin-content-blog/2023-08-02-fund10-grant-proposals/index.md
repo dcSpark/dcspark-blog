@@ -45,7 +45,7 @@ Paimaは、ゲームエンジンと似たモデルで、基本無料ですが、
 Proposals that we believe are core to the success of Paima
 
 ### 分散型AI対応＋SNS/Apple FaceIDログイン
-英語名：\
+英語名：Core integrations to support the fast-growing onchain games and autonomous world segment<br />
 Cost: ~130K USD
 
 <details>
@@ -66,7 +66,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107591)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/core-integrations-to-support-the-fast-growing-onchain-games-and-autonomous-world-segment-f10)
 
 ### 他のチェーンからCardano上のNFTにアクセス可能にするツール
-英語名：\
+英語名：Allow using NFTs from Cardano and other ecosystem in onchain games hosted in the Cardano ecosystem<br />
 Cost: ~145K USD
 
 <details>
@@ -94,7 +94,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107656)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/allow-using-nfts-from-cardano-and-other-ecosystem-in-onchain-games-hosted-in-the-cardano-ecosystem-f10)
 
 ### ウォレット安全自動署名システムでゲーム等を簡単に
-英語名：\
+英語名：Enable use-cases that require frequent message signing by introducing a safe standard for message signing without wallet prompts<br />
 Cost: ~40K USD
 
 <details>
@@ -119,7 +119,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107668)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/enable-use-cases-that-require-frequent-message-signing-by-introducing-a-safe-standard-for-message-signing-without-wallet-prompts-f10)
 
 ### Paimaと他の多くのゲームツールを統合
-英語名：\
+英語名：Paima onchain game integration of Frontend Game Engines & Novel Technology<br />
 Cost: ~160K USD
 
 <details>
@@ -152,7 +152,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107684)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/paima-onchain-game-integration-of-frontend-game-engines-novel-technology-f10)
 
 ### データをどこに保管するか選択可能にするツール
-英語名：\
+英語名：Enable apps and games that require large amounts of data to function cheaply while still maximizing availability and safety<br />
 Cost: ~60K USD
 
 <details>
@@ -180,7 +180,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107691)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/enable-apps-and-games-that-require-large-amounts-of-data-to-function-cheaply-while-still-maximizing-availability-and-safety-f10)
 
 ### PaimaとZekoを利用してアプリやゲームでzk利用可能に
-英語名：\
+英語名：Enable apps and games built in the Cardano ecosystem to leverage ZK cryptography for privacy and scalability<br />
 Cost: ~100K USD
 
 <details>
@@ -205,7 +205,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107706)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/enable-apps-and-games-built-in-the-cardano-ecosystem-to-leverage-zk-cryptography-for-privacy-and-scalability-f10)
 
 ### NFT内の情報を変化させつつ売却も容易に可能なNFT開発
-英語名：\
+英語名：Support Stateful NFTs (dynamic NFTs) for gaming in NFT marketplaces<br />
 Cost: ~100K USD
 
 <details>
@@ -231,7 +231,7 @@ Lidonation: [link](https://www.lidonation.com/proposals/support-stateful-nfts-dy
 Proposals that makes it easier to onboard people and companies to Paima
 
 ### NFT内の情報をイベントにより変化可能NFT
-英語名：\
+英語名：Open Source POAP in Cardano<br />
 Cost: ~80K USD
 
 <details>
@@ -252,8 +252,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/100932/)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/open-source-poap-in-cardano-f10)
 
 ### NFTに報酬額を記録+後ほどその額をドロップ可能のシステム
-英語名：\
-Extend NFT sale & drop tools to support dropping more complex assets as required for onchain games \
+英語名：Extend NFT sale & drop tools to support dropping more complex assets as required for onchain games<br />
 Cost: ~115K USD
 
 <details>
@@ -280,7 +279,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107533)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/extend-nft-sale-drop-tools-to-support-dropping-more-complex-assets-as-required-for-onchain-games-f10)
 
 ### ゲーム実績の標準を作成、それを扱うプラットフォームを作成
-英語名：Open standard for cross-game achievement system to gamify onchain participation\
+英語名：Open standard for cross-game achievement system to gamify onchain participation<br />
 Cost: ~75K USD
 
 <details>
@@ -313,7 +312,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107558)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/open-standard-for-cross-game-achievement-system-to-gamify-onchain-participation-f10)
 
 ### サイドチェーンの機能をメインチェーンから直接実行できる
-英語名：Allow Cardano users to call Sidechain smart contracts directly from their Cardano mainnet wallet\
+英語名：Allow Cardano users to call Sidechain smart contracts directly from their Cardano mainnet wallet<br />
 Cost: ~100K USD
 
 <details>
@@ -345,7 +344,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107634)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/allow-cardano-users-to-call-sidechain-smart-contracts-directly-from-their-cardano-mainnet-wallet-f10)
 
 ### Godotゲームエンジンとライトウォレット統合インフラ
-英語名：MLabs – Cardano Game Engine Wallet - Godot Integration\
+英語名：MLabs – Cardano Game Engine Wallet - Godot Integration<br />
 Cost: ~115K USD
 
 <details>
@@ -370,7 +369,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/100468)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/mlabs-cardano-game-engine-wallet-godot-integration-f10)
 
 ### ゲームがプールや委任者を認識できるようにするツール
-英語名：Powering onchain game functionality using Cardano stakepools\
+英語名：Powering onchain game functionality using Cardano stakepools<br />
 Cost: ~200K USD
 
 <details>
@@ -397,7 +396,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/107742)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/powering-onchain-game-functionality-using-cardano-stakepools-f10)
 
 ### ゲーム作成のための機能のテンプレート作成
-英語名：Provide multiple templates on how to write apps and games for the Cardano ecosystem using Paima\
+英語名：Provide multiple templates on how to write apps and games for the Cardano ecosystem using Paima<br />
 Cost: ~100K USD
 
 <details>
@@ -428,7 +427,7 @@ Lidonation: [link](https://www.lidonation.com/proposals/provide-multiple-templat
 Proposals that help Paima if they pass, but are not proposals we will actively market
 
 ### AIにリクエストしてカルダノの情報を引き出せるコネクタ
-英語名：Shinkai Visor Cardano Indexer integration (vector DB)\
+英語名：Shinkai Visor Cardano Indexer integration (vector DB)<br />
 Cost: ~40K USD
 
 <details>
@@ -444,7 +443,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/106716)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/shinkai-visor-cardano-indexer-integration-vector-db-f10)
 
 ### 日本でカルダノは未だ認知不足の為、最大級の展示会に出展し多くの参加者を巻き込み開発を促進します。
-英語名：Exhibit Largest Blockchain EXPO(JP)：Cardano is hardly recognized in Japan. Therefore, we will exhibit at one of the largest trade shows to raise awareness and encourage developers to enter the market.\
+英語名：Exhibit Largest Blockchain EXPO(JP)：Cardano is hardly recognized in Japan. Therefore, we will exhibit at one of the largest trade shows to raise awareness and encourage developers to enter the market.<br />
 Cost: ~95K USD
 
 <details>
@@ -462,7 +461,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/103058)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/exhibit-largest-blockchain-expojpcardano-is-hardly-recognized-in-japan-therefore-we-will-exhibit-at-one-of-the-largest-trade-shows-to-raise-awareness--f10)
 
 ### スマホでNFC/CardanoNFT認証するツール
-英語名：Unlocking a Multi-million Dollar NFC/NFT Authentication Market for the Cardano Ecosystem with Open-Source\
+英語名：Unlocking a Multi-million Dollar NFC/NFT Authentication Market for the Cardano Ecosystem with Open-Source<br />
 Cost: Paima will receive ~30K USD of a this larger proposal by another project
 
 <details>
