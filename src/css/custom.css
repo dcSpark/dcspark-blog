@@ -63,6 +63,11 @@
   --ifm-blog-listing-separator-color: rgb(18, 19, 19);
 }
 
+hr {
+  background-color: #052F42;
+  height: 2px
+}
+
 @layer base {
   :root {
     --ifm-link-color: #FF931E;

@@ -6,7 +6,7 @@ tags: [catalyst, cardano, paima, shinkai, milkomeda]
 
 ![Cover image](./cover2.png)
 
-Time has come for Catalyst fund 10, and we have proposals for new core infrastructure we think is both unique and will help pave a path for future success of the Cardano ecosystem.
+Time has come for Catalyst fund 10, and with it a new set of dcSpark proposals to unlock the next wave of innovation for the Cardano ecosystem by building new core infrastructure we think is both unique and will help pave a path for future success of the Cardano ecosystem.
 
 dcSpark has been one of the most reliable companies for completing Catalyst grant proposals. Despite dcSpark only account for only about 1% of all proposals, we represent about 5~10% of all completed proposals - demonstrating our ability to deliver on our promises
 
@@ -22,8 +22,18 @@ To explain how we plan to align incentives, first we have to talk about the busi
 
 We believe this system will strongly align the two ecosystems together. It allows us to very easily pitch Cardano as the best ecosystem for projects planning to use Paima, not just thanks to the lower royalty costs, but also thanks to the fact that Paima will support Cardano NFTs which are generally much safer to work with than ERC721 tokens while being secured by one of the most decentralized blockchains. We hope you're as excited about the potential of Autonomous Worlds and Paima as we are, and look forward to building a strong ecosystem, together.
 
+### Proposal ranking
+
+We have many proposals and of course we really appreciate those who support all of them. However, if you want to read or support part of our proposals, we have split them up into four categories to help you prioritize:
+
+1. **Core**: proposals that we believe are core to the success of Paima
+2. **Extended**: proposals that makes it easier to onboard people and companies to Paima
+3. **Supplement**: proposals that help Paima if they pass, but are not proposals we will actively market
+4. **Partner**: proposals that are not made by dcSpark, but by our partners (these will **not** count towards the discount mentioned above)
 
 # Core
+
+Proposals that we believe are core to the success of Paima
 
 ### Core integrations to support the fast-growing onchain games and autonomous world segment
 Cost: ~130K USD
@@ -96,7 +106,7 @@ Notably, the project consisted of the steps:
 Ideascale: [link](https://cardano.ideascale.com/c/idea/107668)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/enable-use-cases-that-require-frequent-message-signing-by-introducing-a-safe-standard-for-message-signing-without-wallet-prompts-f10)
 
-### Paima integration of Frontend Game Engines & Novel Technology
+### Paima onchain game integration of Frontend Game Engines & Novel Technology
 Cost: ~160K USD
 
 <details>
@@ -199,7 +209,10 @@ We also want to build a browser extension that helps render Stateful NFT informa
 Ideascale: [link](https://cardano.ideascale.com/c/idea/103520)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/support-stateful-nfts-dynamic-nfts-for-gaming-in-nft-marketplaces-f10)
 
+---
 # Extended
+
+Proposals that makes it easier to onboard people and companies to Paima
 
 ### Open Source POAP in Cardano
 Cost: ~80K USD
@@ -385,7 +398,10 @@ We do not commit to any specific template as there is quite a lot to pick from, 
 Ideascale: [link](https://cardano.ideascale.com/c/idea/107713)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/provide-multiple-templates-on-how-to-write-apps-and-games-for-the-cardano-ecosystem-using-paima-f10)
 
+---
 # Supplement
+
+Proposals that help Paima if they pass, but are not proposals we will actively market
 
 ### Shinkai Visor Cardano Indexer integration (vector DB)
 Cost: ~40K USD
@@ -420,7 +436,7 @@ Ideascale: [link](https://cardano.ideascale.com/c/idea/103058)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/exhibit-largest-blockchain-expojpcardano-is-hardly-recognized-in-japan-therefore-we-will-exhibit-at-one-of-the-largest-trade-shows-to-raise-awareness--f10)
 
 ### Unlocking a Multi-million Dollar NFC/NFT Authentication Market for the Cardano Ecosystem with Open-Source
-Cost: ~30K USD
+Cost: Paima will receive ~30K USD of a this larger proposal by another project
 
 <details>
   <summary>Proposal summary</summary>
@@ -436,8 +452,74 @@ We’ll create an open-source proof-of-concept application, a mobile SDK to comm
 Ideascale: [link](https://cardano.ideascale.com/c/idea/106026)<br />
 Lidonation: [link](https://www.lidonation.com/proposals/fixing-nintendos-problem-unlocking-a-multi-million-dollar-nfcnft-authentication-market-for-the-cardano-ecosystem-with-open-source-cardano-warriors-dcs-f10)
 
+---
+## Partner
 
-## Conclusion
+proposals that are not made by dcSpark, but by our partners (these will **not** count towards the discount mentioned above)
+
+### Djed Osiris Stablecoin on Cardano's EVM Sidechain Milkomeda
+Cost: ~67K USD
+
+<details>
+  <summary>Proposal summary</summary>
+  <div>
+
+**Relation to dcSpark**: this is a proposal that is being built on Milkomeda (EVM layer for Cardano) where dcSpark is a core contributor. The dcSpark team were some of the initial contributors to SigmaUSD (the precursor to Djed), and Djed has been a pioneer in Milkomeda functionality by being an early adopter of new technologies like wrapped smart contracts.
+
+This implementation of a stablecoin protocol on Milkomeda is based on the Osiris version of Djed, which improves the Minimal version by allowing the sale of reservecoins even when the reserve ratio is below the minimum threshold, provided that stablecoins are simultaneously sold in a proportion that increases the reserve ratio. This makes it easier for the reserve ratio to recover and for the peg in secondary markets to be restored even in situations where the demand for stablecoins is high and the demand for reservecoins is low following a price shock (a situation that is currently affecting SigmaUSD and COTI's Djed, making them trade above the peg at secondary markets). This version also introduces maximum transaction limits, in order to reduce the wholesale discount effect described in the paper.
+
+
+
+  </div>
+</details>
+
+Ideascale: [link](https://cardano.ideascale.com/c/idea/105933)<br />
+Lidonation: [link](https://www.lidonation.com/ja/proposals/djed-osiris-stablecoin-on-cardanos-evm-sidechain-milkomeda-f10)
+
+### Treasure Chain
+Cost: ~68K USD
+
+<details>
+  <summary>Proposal summary</summary>
+  <div>
+
+**Relation to Paima**: Treasure Chain will be utilizing Paima for part of their project, including the Godot integration Catalyst proposal you can find above
+
+Treasure Chain is a different kind of game that combines these three things.
+
+1. It is an NFT Art network where users keep NFT artworks called Tiles in a Deck, and can arrange them on a Map however they like. When minting an NFT using the platform, users can assign rules (called Linkages) about where it can sit on the map, what art can be contained within other art, and what art it can combine with to form new art.
+2. These Linkages are modular and can be combined in different ways. They can form a sort of neural network of art where artists can create games and collaborative worlds together.
+3. All transactions are done in crypto so users can profit from their creations and contributions. It is part game engine, part social media platform. Instead of relying on one specific art style for a game to receive mass adoption, since all artwork is user-created, players can collect and interact with only artwork they enjoy.
+
+
+
+  </div>
+</details>
+
+Ideascale: [link](https://cardano.ideascale.com/c/idea/101804)<br />
+Lidonation: [link](https://www.lidonation.com/ja/proposals/djed-osiris-stablecoin-on-cardanos-evm-sidechain-milkomeda-f10)
+
+### Open source Marketplace “Opensea-like” for MIlkomeda usecases and Seedstars Galaxy
+Cost: ~87K USD
+
+<details>
+  <summary>Proposal summary</summary>
+  <div>
+
+**Relation to Paima**: Smart Chain plans to use Paima for their application
+
+Seedstars is conceptualizing its first impact NFT, the Seedstars NFT provides impact contributors with an opportunity to support the impact of early-stage tech companies selected and backed by trustable VC funds. Essentially the NFTs would regroup the impact certificates and backing rights for startups in a given sector (e.g. climate, education, financial inclusion, etc). Seedstars NFT owners would own the proof of the impact, computed via an impact multiple of money formula, and thereby witness not only their backing but also the evolution of the impact they’re contributing to.
+
+
+
+  </div>
+</details>
+
+Ideascale: [link](https://cardano.ideascale.com/c/idea/106235)<br />
+Lidonation: [link](https://www.lidonation.com/proposals/open-source-marketplace-opensea-like-for-milkomeda-usecases-and-seedstars-galaxy-f10)
+
+---
+## Follow us
 
 **Follow dcSpark:** <br />
 **Website:** [dcspark.io](https://dcspark.io/)<br />
