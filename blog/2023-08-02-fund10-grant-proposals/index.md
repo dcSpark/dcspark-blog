@@ -226,6 +226,8 @@ More concretely, users would receive a single Stateful Proof of Attendance NFT (
 
 Additionally, to enable building soulbound NFTs, these NFTs will be minted on Milkomeda (Cardano sidechain). This has the added benefit that transaction fees are also significantly cheaper than the Cardano L1, allowing for much larger and more regular drops and also bypasses the min UTxO issue. Thanks to the Milkomeda's work on wrapped smart contracts, it's still possible for Cardano users to fully control their SPoA directly from any Cardano wallet (Nami/Eternl/Flint/etc) and will not require any new wallets to be installed for neither event organizers nor regular participants
 
+If you like this proposal, you may also be interested in [this proposal](https://cardano.ideascale.com/c/idea/103296) that is another approach to tackling this problem by some of the same partners as our POAP proposal.
+
 
 
   </div>
