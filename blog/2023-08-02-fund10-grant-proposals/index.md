@@ -31,6 +31,21 @@ We have many proposals and of course we really appreciate those who support all 
 3. **Supplement**: proposals that help Paima if they pass, but are not proposals we will actively market
 4. **Partner**: proposals that are not made by dcSpark, but by our partners (these will **not** count towards the discount mentioned above)
 
+# How to quickly vote on all proposals
+
+Unfortunately, the Catalyst app search feature is not very good. Here is an easy way to find and vote for all our proposals:
+
+1. Search 「Sebastien Guillemot」and vote for all proposals (this will get you almost all our proposals)
+
+Once you start voting, do NOT press "continue voting". Instead, press "X" and continue to the next proposal using the arrow
+
+![](./steps.png)
+
+2. Search 「Stateful NFT」
+3. Search 「Open Source POAP」(first result)
+4. Search 「Largest Blockchain EXPO」
+5. Search 「Thiago Nunes」and select the NFC proposal
+
 # Core
 
 Proposals that we believe are core to the success of Paima
