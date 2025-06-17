@@ -551,5 +551,5 @@ Lidonation: [link](https://www.lidonation.com/proposals/open-source-marketplace-
 **YouTube:** [Paima Studios](https://www.youtube.com/channel/UCiQQPg--xxGnFXDfMmot4AA)<br />
 
 **Follow Shinkai:** <br />
-**Twitter:** [@ShinkaiNetwork](https://twitter.com/shinkai_network)<br />
+**X:** [@ShinkaiNetwork](https://x.com/ShinkaiLocalAI)<br />
 **Discord:** [Invite](https://discord.com/invite/shinkainetwork)<br />
